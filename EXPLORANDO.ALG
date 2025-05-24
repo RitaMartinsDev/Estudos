@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Explorando"
 var
 nome:caractere
 idade: inteiro
